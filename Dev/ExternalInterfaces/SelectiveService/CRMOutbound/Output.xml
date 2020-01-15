@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SelectiveServiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Customers>
+    <SelectiveServiceCustomer>
+      <FirstName>Michael</FirstName>
+      <MiddleName>Stonebird</MiddleName>
+      <LastName>Claghorn</LastName>
+      <Suffix xsi:nil="true" />
+      <Date_of_Birth>1996-04-08T05:00:00</Date_of_Birth>
+      <SSN>65F8195365CD6FAA6341D2B28EE7DBF3</SSN>
+      <IssuanceDate>2014-01-24T06:00:00</IssuanceDate>
+      <EmailAddress>claghorn@hotmail.com</EmailAddress>
+      <Cellphone>123456789</Cellphone>
+      <Mailing>
+        <AddressLine1>612 W 20th St</AddressLine1>
+        <AddressLine2 xsi:nil="true" />
+        <AddressLine3 xsi:nil="true" />
+        <City>Ada</City>
+        <State>OK</State>
+        <ZIP>74820</ZIP>
+      </Mailing>
+      <Residential>
+        <AddressLine1 xsi:nil="true" />
+        <AddressLine2 xsi:nil="true" />
+        <AddressLine3 xsi:nil="true" />
+        <City xsi:nil="true" />
+        <State>OK</State>
+        <ZIP xsi:nil="true" />
+      </Residential>
+    </SelectiveServiceCustomer>
+  </Customers>
+</SelectiveServiceResponse>
